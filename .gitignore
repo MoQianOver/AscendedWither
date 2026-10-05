@@ -1,0 +1,18 @@
+# 项目排除路径
+/.gradle/
+/build/
+/build/classes/java/main/
+
+# 开发运行目录(世界存档、日志、运行时生成的配置)
+/run/
+/run-data/
+
+# IDE
+/.idea/
+*.iml
+.classpath
+.project
+.settings/
+
+# 杂项
+*.log

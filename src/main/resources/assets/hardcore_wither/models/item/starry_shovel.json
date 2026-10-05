@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "hardcore_wither:item/starry_shovel"
+  }
+}
