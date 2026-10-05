@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "EEE",
+    " S ",
+    " S "
+  ],
+  "key": {
+    "E": {
+      "item": "ascended_wither:starry_emerald"
+    },
+    "S": {
+      "item": "ascended_wither:starry_stick"
+    }
+  },
+  "result": {
+    "item": "ascended_wither:starry_pickaxe",
+    "count": 1
+  }
+}
